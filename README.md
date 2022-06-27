@@ -1,6 +1,6 @@
 # send_gmail_emails
 This repository contains a Python script to send emails from a Gmail account.  
-In this post you can find how to set up your Google account, what to install and how the script works.  
+In [this post](https://devinsimplewords.com/send-email-using-python/) you can find how to set up your Google account, what to install and how the script works.  
 
 In simple words, the script reads from a CSV file stored in data directory and send an email for each row in the file.
 
